@@ -1,0 +1,29 @@
+body{
+    background-color:#F5F5DC;
+    background-image: url(iuyu.png);
+    background-repeat: repeat-x;
+}
+.wrap{
+    width: 25%;
+    margin: auto;
+    color: azure;
+    border-radius: 5px;
+    font-family: comic sans ms;
+    background-color: ;
+}
+.container{
+    padding: 40px;
+}
+table{
+    margin: auto;
+}
+table td{
+    padding: 6px;
+}
+button{
+    width: 50px;
+    font-family: comic sans ms;
+    height: 30px;
+    background-color: rgb(1, 231, 21);
+    background-radius : 7px;
+}
